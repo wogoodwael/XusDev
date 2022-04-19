@@ -1,0 +1,49 @@
+*{
+    /* box-sizing: border-box; */
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+ 
+header{
+    color:white;
+    display: flex;
+    justify-content:center;
+    /* align-items:center ; */
+ background-color: transparent;
+ /* position: absolute; */
+ position: fixed;;
+ right:0;
+ left: 0;
+ top: 0;
+ bottom: 0;
+ font-size: x-large;
+ padding: 0px 1px;
+ width: 100;
+   
+}
+header a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: ease 1s;
+    font-size: 25px;
+    background-color: transparent;
+    padding: 0px 1px;
+    width: 100;
+   
+   
+}
+header a:hover{
+    color: rgb(248, 18, 152);
+    font-size: 20px;
+    background-color: transparent;
+}
+.enemation{
+    margin-top: 5px;
+    text-align: center;
+
+}
+
+
